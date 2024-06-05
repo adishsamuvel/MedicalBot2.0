@@ -49,7 +49,6 @@ Response:
 
 # Initialize Streamlit app
 st.set_page_config(page_title="Medical Image Analysis", page_icon=":microscope:")
-st.image(r"C:\Users\ARUL THOMAS M\Pictures\Screenshots\Screenshot 2024-01-10 195025.png")
 
 st.title("Medical Image Analysis")
 st.subheader("Upload an image to get insights")
